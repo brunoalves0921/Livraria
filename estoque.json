@@ -1,0 +1,61 @@
+{
+    "caixa": 360.0,
+    "livros": [
+        {
+            "id": 0,
+            "nome": "Odisseia, Homero.",
+            "valor": 100.0,
+            "tipo": "aventura",
+            "qtdEstoque": 10
+        },
+        {
+            "id": 1,
+            "nome": "A cabana do Pai Tomás - Harriet Beecher Stowe.",
+            "valor": 100.0,
+            "tipo": "comedia",
+            "qtdEstoque": 0
+        },
+        {
+            "id": 2,
+            "nome": "O Mundo se Despedaça - Chinua Achebe.",
+            "valor": 100.0,
+            "tipo": "drama",
+            "qtdEstoque": 0
+        },
+        {
+            "id": 3,
+            "nome": "A arte da guerra",
+            "valor": 80.0,
+            "tipo": "aventura",
+            "qtdEstoque": 0
+        },
+        {
+            "id": 4,
+            "nome": "Como programar em C++",
+            "valor": 70.0,
+            "tipo": "drama",
+            "qtdEstoque": 0
+        },
+        {
+            "id": 5,
+            "nome": "Como programar em python",
+            "valor": 70.0,
+            "tipo": "comedia",
+            "qtdEstoque": 0
+        },
+        {
+            "id": 6,
+            "nome": "O ladrão de raios",
+            "valor": 50.0,
+            "tipo": "aventura",
+            "qtdEstoque": 0
+        },
+        {
+            "id": 7,
+            "nome": "Dom Quixote | Miguel de Cervantes",
+            "valor": 200.0,
+            "tipo": "drama",
+            "qtdEstoque": 0
+        }
+    ]
+}
